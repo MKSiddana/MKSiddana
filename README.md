@@ -62,47 +62,91 @@ performance optimization, and production-ready data engineering.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Engineering Projects
 
-### 🏥 Healthcare Data Lakehouse Pipeline
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Production-oriented healthcare data pipeline demonstrating:
+### 🏥 Healthcare Data Lakehouse
 
-`Azure` • `Databricks` • `PySpark` • `Delta Lake` • `CDC` • `Data Quality`
+**Production-oriented healthcare lakehouse pipeline**
 
-👉 [View Project](https://github.com/MKSiddana/healthcare-data-lakehouse-pipeline)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
 
----
+⚡ ETL / ELT Pipeline  
+🔄 Delta Lake CDC / MERGE  
+✅ Data Quality Validation  
+🥉 Bronze → 🥈 Silver → 🥇 Gold  
 
-### 🚕 High-Volume Ride Data Pipeline
+[**🔗 Explore Project →**](https://github.com/MKSiddana/healthcare-data-lakehouse-pipeline)
 
-Scalable Spark pipeline demonstrating:
+</td>
 
-`PySpark` • `Spark SQL` • `Parquet` • `Partitioning` • `Incremental Processing` • `Watermarks`
+<td width="50%" valign="top">
 
-👉 [View Project](https://github.com/MKSiddana/high-volume-ride-data-pipeline)
+### 🚕 High-Volume Ride Pipeline
 
----
+**Scalable Spark processing & incremental ingestion**
 
-### 🏦 Enterprise Banking ETL Pipeline
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-CC2927?style=flat-square)
 
-Coming next:
+⚡ Partitioned PySpark Processing  
+💧 Watermark-Based Incremental Loads  
+✅ Business-Rule Validation  
+📊 Spark SQL Analytics  
 
-`Python` • `SQL` • `Azure` • `Incremental ETL` • `Reconciliation` • `Audit Logging`
+[**🔗 Explore Project →**](https://github.com/MKSiddana/high-volume-ride-data-pipeline)
 
-🚧 Currently Building
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Enterprise Banking ETL
+
+**Reliable enterprise ETL & reconciliation framework**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+🔄 Incremental ETL  
+✅ Source-to-Target Reconciliation  
+📝 Audit Logging  
+♻️ Retry & Recovery  
+
+**🚧 Currently Building**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ Data Engineering Framework
 
-Coming soon:
+**Reusable production pipeline components**
 
-`Python` • `Configuration` • `Data Quality` • `Logging` • `Retry` • `Monitoring`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🚧 Planned
+⚙️ Config-Driven Pipelines  
+✅ Reusable Data Quality Checks  
+📋 Centralized Logging  
+📈 Pipeline Monitoring  
 
----
+**🔜 Coming Soon**
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Activity
 
