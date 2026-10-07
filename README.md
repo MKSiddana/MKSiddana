@@ -123,7 +123,7 @@ performance optimization, and production-ready data engineering.
 📝 Audit Logging  
 ♻️ Retry & Recovery  
 
-**🚧 Currently Building**
+<a href="/MKSiddana/enterprise-banking-etl-pipeline">🔗 Explore Project →</a>
 
 </td>
 
