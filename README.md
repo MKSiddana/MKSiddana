@@ -148,18 +148,6 @@ performance optimization, and production-ready data engineering.
 </tr>
 </table>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MKSiddana&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKSiddana&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Currently Building
 
 I'm building a portfolio of production-oriented data engineering projects focused on:
