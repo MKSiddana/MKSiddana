@@ -142,7 +142,7 @@ performance optimization, and production-ready data engineering.
 📋 Centralized Logging  
 📈 Pipeline Monitoring  
 
-**🔜 Coming Soon**
+<a href="https://github.com/MKSiddana/data-engineering-framework">🔗 Explore Project →</a>
 
 </td>
 </tr>
